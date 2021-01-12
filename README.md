@@ -1,5 +1,5 @@
 # Filters
-University class project: Taking bitmap image file and applying "filters" to original image by altering rgb channels and pixels
+University class project: Taking bitmap image file and applying "filters" to original image by altering RGB channels and pixels
 <p>
   <br/>
   <img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/original.bmp" width = "200" >
