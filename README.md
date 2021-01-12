@@ -5,7 +5,7 @@ University class project: Altering bitmap image files to apply "filters" to orig
 <img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/red.bmp" width = "200" >
 <img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/green.bmp" width = "200" >
 <img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/blue.bmp" width = "200" >
-<img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/blck&white.bmp" width = "200" >
+<img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/black&white.bmp" width = "200" >
 <img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/grayscale.bmp" width = "200" >
 <img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/blur.bmp" width = "200" >
 
