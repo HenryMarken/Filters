@@ -1,12 +1,7 @@
 # Filters
 University class project: Altering bitmap image files to apply "filters" to original image
-![](Example%20Images/orignal.bmp)
-![](Example%20Images/red.bmp)
-![](Example%20Images/green.bmp)
-![](Example%20Images/blue.bmp)
-![](Example%20Images/black&white.bmp)
-![](Example%20Images/grayscale.bmp)
-![](Example%20Images/blur.bmp)
+<img src = "Example%20Images/orignal.bmp" width = "50">
+
 
 
 ## Skills I Learned
