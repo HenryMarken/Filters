@@ -1,6 +1,8 @@
 # Filters
 University class project: Altering bitmap image files to apply "filters" to original image
-<img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/original.bmp" width = "100" >
+<br/>
+<img src= "https://github.com/HenryMarken/Filters/blob/main/Example%20Images/original.bmp" width = "200" >
+
 
 
 
